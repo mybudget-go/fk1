@@ -3,5 +3,5 @@ package sub
 import "github.com/tryfix/log"
 
 func Fn1() {
-	log.Info(`Fn22`)
+	log.Info(`Fn2255`)
 }
