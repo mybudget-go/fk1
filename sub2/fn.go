@@ -1,6 +1,6 @@
 package sub2
 
-import "github.com/gmbyapa/fk1/sub"
+import "github.com/mybudget-go/fk1/sub"
 
 // test
 func Fn2() {
