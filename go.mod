@@ -1,4 +1,4 @@
-module github.com/gmbyapa/fk1
+module fk1
 
 go 1.19
 
